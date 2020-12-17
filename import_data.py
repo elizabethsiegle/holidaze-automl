@@ -1,11 +1,11 @@
 from google.cloud import automl
-
+import os
+os.environ["GOOGLE_APPLICATION_CREDENTIALS"]="AutoML-69cd695f0262.json"
 project_id = "automl-298621"
-display_name = "holidays"
 path = "gs://automl-298621-vcm/labels.csv"
 
 client = automl.AutoMlClient()
-dataset_id = "ICN6557996421939724288" #from running create_dataset.py
+dataset_id = "ICN1488843197613342720" #from running create_dataset.py
 # Get the full path of the dataset.
 dataset_full_id = client.dataset_path(
     project_id, "us-central1", dataset_id

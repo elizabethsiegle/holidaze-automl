@@ -1,71 +1,68 @@
-CHRISTMAS,gs://automl-298621-vcm/holidays/
-CHRISTMAS,gs://automl-298621-vcm/holidays/dec1.jpeg
-CHRISTMAS,gs://automl-298621-vcm/holidays/dec10.jpeg
-CHRISTMAS,gs://automl-298621-vcm/holidays/dec2.jpeg
-CHRISTMAS,gs://automl-298621-vcm/holidays/dec3.jpeg
-CHRISTMAS,gs://automl-298621-vcm/holidays/dec4.jpeg
-CHRISTMAS,gs://automl-298621-vcm/holidays/dec5.jpeg
-CHRISTMAS,gs://automl-298621-vcm/holidays/dec6.jpeg
-CHRISTMAS,gs://automl-298621-vcm/holidays/dec7.jpeg
-CHRISTMAS,gs://automl-298621-vcm/holidays/dec8.jpeg
-CHRISTMAS,gs://automl-298621-vcm/holidays/dec9.jpeg
-CHRISTMAS,gs://automl-298621-vcm/holidays/
-CHRISTMAS,gs://automl-298621-vcm/holidays/1.jpg
-CHRISTMAS,gs://automl-298621-vcm/holidays/10.jpeg
-CHRISTMAS,gs://automl-298621-vcm/holidays/11.jpeg
-CHRISTMAS,gs://automl-298621-vcm/holidays/2.jpg
-CHRISTMAS,gs://automl-298621-vcm/holidays/3.jpeg
-CHRISTMAS,gs://automl-298621-vcm/holidays/4.jpeg
-CHRISTMAS,gs://automl-298621-vcm/holidays/5.jpg
-CHRISTMAS,gs://automl-298621-vcm/holidays/6.jpeg
-CHRISTMAS,gs://automl-298621-vcm/holidays/7.jpg
-CHRISTMAS,gs://automl-298621-vcm/holidays/8.jpg
-CHRISTMAS,gs://automl-298621-vcm/holidays/9.jpg
-CHRISTMAS,gs://automl-298621-vcm/holidays/dec1.jpeg
-CHRISTMAS,gs://automl-298621-vcm/holidays/dec10.jpeg
-CHRISTMAS,gs://automl-298621-vcm/holidays/dec2.jpeg
-CHRISTMAS,gs://automl-298621-vcm/holidays/dec3.jpeg
-CHRISTMAS,gs://automl-298621-vcm/holidays/dec4.jpeg
-CHRISTMAS,gs://automl-298621-vcm/holidays/dec5.jpeg
-CHRISTMAS,gs://automl-298621-vcm/holidays/dec6.jpeg
-CHRISTMAS,gs://automl-298621-vcm/holidays/dec7.jpeg
-CHRISTMAS,gs://automl-298621-vcm/holidays/dec8.jpeg
-CHRISTMAS,gs://automl-298621-vcm/holidays/dec9.jpeg
-HALLOWEEN,gs://automl-298621-vcm/holidays/
-HALLOWEEN,gs://automl-298621-vcm/holidays/h1.jpeg
-HALLOWEEN,gs://automl-298621-vcm/holidays/h10.jpeg
-HALLOWEEN,gs://automl-298621-vcm/holidays/h11.jpg
-HALLOWEEN,gs://automl-298621-vcm/holidays/h12.jpeg
-HALLOWEEN,gs://automl-298621-vcm/holidays/h13.jpeg
-HALLOWEEN,gs://automl-298621-vcm/holidays/h14.jpg
-HALLOWEEN,gs://automl-298621-vcm/holidays/h15.jpg
-HALLOWEEN,gs://automl-298621-vcm/holidays/h16.jpg
-HALLOWEEN,gs://automl-298621-vcm/holidays/h17.jpg
-HALLOWEEN,gs://automl-298621-vcm/holidays/h18.jpg
-HALLOWEEN,gs://automl-298621-vcm/holidays/h19.jpeg
-HALLOWEEN,gs://automl-298621-vcm/holidays/h2.jpg
-HALLOWEEN,gs://automl-298621-vcm/holidays/h20.jpg
-HALLOWEEN,gs://automl-298621-vcm/holidays/h21.jpg
-HALLOWEEN,gs://automl-298621-vcm/holidays/h22.jpeg
-HALLOWEEN,gs://automl-298621-vcm/holidays/h23.jpeg
-HALLOWEEN,gs://automl-298621-vcm/holidays/h24.jpeg
-HALLOWEEN,gs://automl-298621-vcm/holidays/h25.jpg
-HALLOWEEN,gs://automl-298621-vcm/holidays/h26.jpg
-HALLOWEEN,gs://automl-298621-vcm/holidays/h27.jpeg
-HALLOWEEN,gs://automl-298621-vcm/holidays/h28.png
-HALLOWEEN,gs://automl-298621-vcm/holidays/h29.jpg
-HALLOWEEN,gs://automl-298621-vcm/holidays/h3.jpg
-HALLOWEEN,gs://automl-298621-vcm/holidays/h30.jpeg
-HALLOWEEN,gs://automl-298621-vcm/holidays/h31.jpg
-HALLOWEEN,gs://automl-298621-vcm/holidays/h32.jpg
-HALLOWEEN,gs://automl-298621-vcm/holidays/h33.jpeg
-HALLOWEEN,gs://automl-298621-vcm/holidays/h34.jpg
-HALLOWEEN,gs://automl-298621-vcm/holidays/h35.jpeg
-HALLOWEEN,gs://automl-298621-vcm/holidays/h36.jpeg
-HALLOWEEN,gs://automl-298621-vcm/holidays/h37.jpg
-HALLOWEEN,gs://automl-298621-vcm/holidays/h4.jpg
-HALLOWEEN,gs://automl-298621-vcm/holidays/h5.jpeg
-HALLOWEEN,gs://automl-298621-vcm/holidays/h6.jpeg
-HALLOWEEN,gs://automl-298621-vcm/holidays/h7.jpeg
-HALLOWEEN,gs://automl-298621-vcm/holidays/h8.jpeg
-HALLOWEEN,gs://automl-298621-vcm/holidays/h9.jpg
+gs://automl-298621-vcm/holidays/dec1.jpeg, CHRISTMAS
+gs://automl-298621-vcm/holidays/dec10.jpeg, CHRISTMAS
+gs://automl-298621-vcm/holidays/dec2.jpeg, CHRISTMAS
+gs://automl-298621-vcm/holidays/dec3.jpeg, CHRISTMAS
+gs://automl-298621-vcm/holidays/dec4.jpeg, CHRISTMAS
+gs://automl-298621-vcm/holidays/dec5.jpeg, CHRISTMAS
+gs://automl-298621-vcm/holidays/dec6.jpeg, CHRISTMAS
+gs://automl-298621-vcm/holidays/dec7.jpeg, CHRISTMAS
+gs://automl-298621-vcm/holidays/dec8.jpeg, CHRISTMAS
+gs://automl-298621-vcm/holidays/dec9.jpeg, CHRISTMAS
+gs://automl-298621-vcm/holidays/1.jpg, CHRISTMAS
+gs://automl-298621-vcm/holidays/10.jpeg, CHRISTMAS
+gs://automl-298621-vcm/holidays/11.jpeg, CHRISTMAS
+gs://automl-298621-vcm/holidays/2.jpg, CHRISTMAS
+gs://automl-298621-vcm/holidays/3.jpeg, CHRISTMAS
+gs://automl-298621-vcm/holidays/4.jpeg, CHRISTMAS
+gs://automl-298621-vcm/holidays/5.jpg, CHRISTMAS
+gs://automl-298621-vcm/holidays/6.jpeg, CHRISTMAS
+gs://automl-298621-vcm/holidays/7.jpg, CHRISTMAS
+gs://automl-298621-vcm/holidays/8.jpg, CHRISTMAS
+gs://automl-298621-vcm/holidays/9.jpg, CHRISTMAS
+gs://automl-298621-vcm/holidays/dec1.jpeg, CHRISTMAS
+gs://automl-298621-vcm/holidays/dec10.jpeg, CHRISTMAS
+gs://automl-298621-vcm/holidays/dec2.jpeg, CHRISTMAS
+gs://automl-298621-vcm/holidays/dec3.jpeg, CHRISTMAS
+gs://automl-298621-vcm/holidays/dec4.jpeg, CHRISTMAS
+gs://automl-298621-vcm/holidays/dec5.jpeg, CHRISTMAS
+gs://automl-298621-vcm/holidays/dec6.jpeg, CHRISTMAS
+gs://automl-298621-vcm/holidays/dec7.jpeg, CHRISTMAS
+gs://automl-298621-vcm/holidays/dec8.jpeg, CHRISTMAS
+gs://automl-298621-vcm/holidays/dec9.jpeg, CHRISTMAS
+gs://automl-298621-vcm/holidays/h1.jpeg, HALLOWEEN
+gs://automl-298621-vcm/holidays/h10.jpeg, HALLOWEEN
+gs://automl-298621-vcm/holidays/h11.jpg, HALLOWEEN
+gs://automl-298621-vcm/holidays/h12.jpeg, HALLOWEEN
+gs://automl-298621-vcm/holidays/h13.jpeg, HALLOWEEN
+gs://automl-298621-vcm/holidays/h14.jpg, HALLOWEEN
+gs://automl-298621-vcm/holidays/h15.jpg, HALLOWEEN
+gs://automl-298621-vcm/holidays/h16.jpg, HALLOWEEN
+gs://automl-298621-vcm/holidays/h17.jpg, HALLOWEEN
+gs://automl-298621-vcm/holidays/h18.jpg, HALLOWEEN
+gs://automl-298621-vcm/holidays/h19.jpeg, HALLOWEEN
+gs://automl-298621-vcm/holidays/h2.jpg, HALLOWEEN
+gs://automl-298621-vcm/holidays/h20.jpg, HALLOWEEN
+gs://automl-298621-vcm/holidays/h21.jpg, HALLOWEEN
+gs://automl-298621-vcm/holidays/h22.jpeg, HALLOWEEN
+gs://automl-298621-vcm/holidays/h23.jpeg, HALLOWEEN
+gs://automl-298621-vcm/holidays/h24.jpeg, HALLOWEEN
+gs://automl-298621-vcm/holidays/h25.jpg, HALLOWEEN
+gs://automl-298621-vcm/holidays/h26.jpg, HALLOWEEN
+gs://automl-298621-vcm/holidays/h27.jpeg, HALLOWEEN
+gs://automl-298621-vcm/holidays/h28.png, HALLOWEEN
+gs://automl-298621-vcm/holidays/h29.jpg, HALLOWEEN
+gs://automl-298621-vcm/holidays/h3.jpg, HALLOWEEN
+gs://automl-298621-vcm/holidays/h30.jpeg, HALLOWEEN
+gs://automl-298621-vcm/holidays/h31.jpg, HALLOWEEN
+gs://automl-298621-vcm/holidays/h32.jpg, HALLOWEEN
+gs://automl-298621-vcm/holidays/h33.jpeg, HALLOWEEN
+gs://automl-298621-vcm/holidays/h34.jpg, HALLOWEEN
+gs://automl-298621-vcm/holidays/h35.jpeg, HALLOWEEN
+gs://automl-298621-vcm/holidays/h36.jpeg, HALLOWEEN
+gs://automl-298621-vcm/holidays/h37.jpg, HALLOWEEN
+gs://automl-298621-vcm/holidays/h4.jpg, HALLOWEEN
+gs://automl-298621-vcm/holidays/h5.jpeg, HALLOWEEN
+gs://automl-298621-vcm/holidays/h6.jpeg, HALLOWEEN
+gs://automl-298621-vcm/holidays/h7.jpeg, HALLOWEEN
+gs://automl-298621-vcm/holidays/h8.jpeg, HALLOWEEN
+gs://automl-298621-vcm/holidays/h9.jpg, HALLOWEEN

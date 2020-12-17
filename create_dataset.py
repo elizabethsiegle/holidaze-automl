@@ -1,5 +1,6 @@
 from google.cloud import automl
 
+# TODO(developer): Uncomment and set the following variables
 project_id = "automl-298621"
 display_name = "holidays"
 
@@ -13,7 +14,7 @@ project_location = f"projects/{project_id}/locations/us-central1"
 # MultiClass: At most one label is allowed per example.
 # https://cloud.google.com/automl/docs/reference/rpc/google.cloud.automl.v1#classificationtype
 metadata = automl.ImageClassificationDatasetMetadata(
-    classification_type=automl.ClassificationType.MULTICLASS
+    classification_type=automl.ClassificationType.MULTILABEL
 )
 dataset = automl.Dataset(
     display_name=display_name,
@@ -28,7 +29,3 @@ created_dataset = response.result()
 # Display the dataset information
 print("Dataset name: {}".format(created_dataset.name))
 print("Dataset id: {}".format(created_dataset.name.split("/")[-1]))
-
-
-
-   
